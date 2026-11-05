@@ -48,8 +48,4 @@ The experiment uses the 36 monthly demand values supplied in the laboratory hand
 | Decision Tree | 47.96 | 51.74 | 13.61 |
 | Random Forest | 41.57 | 45.88 | 11.75 |
 
-Metrics may vary if the model settings or dataset are changed.
 
-## GitHub
-After creating your GitHub repository, add its URL here:
-`[Paste your repository URL]`
